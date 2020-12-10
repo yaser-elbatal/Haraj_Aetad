@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300863116627",
+    "firebase_url": "https://haraj-f7515.firebaseio.com",
+    "project_id": "haraj-f7515",
+    "storage_bucket": "haraj-f7515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300863116627:android:cc5426c6ab243186c8fda6",
+        "android_client_info": {
+          "package_name": "com.sh3wza_cr7.haraj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300863116627-bluv2tjgk8nr3i93rt1lg321jmo8f9f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyL54XmbJ1TqPRedM96oL2R_ydjcPJLyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300863116627-bluv2tjgk8nr3i93rt1lg321jmo8f9f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
